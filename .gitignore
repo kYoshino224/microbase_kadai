@@ -9,5 +9,5 @@ __pycache__/
 [Ll]ocal
 [Ss]cripts
 pyvenv.cfg
-micro_env
+micro_env/
 pip-selfcheck.json
