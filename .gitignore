@@ -2,4 +2,4 @@ __pycache__/
 *.py[cod]
 
 
-micro_env/
+micro_env
